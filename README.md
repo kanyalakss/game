@@ -1,8 +1,7 @@
-# dog_ninja
-### สร้างเกมง่ายด้วยภาษาJAVA
->method main อยู่ที่ src/display/Game.java
+# kanyalak songsee
+studentNO 6404062630228
+### JAVA GAME PROJECT
+dodge the fire dragon
+ 
 
-![Image](http://www.todostudent.com/img/Untitled.png)
 
-
-_ติดต่อ : dragon123789555@gmail.com_
